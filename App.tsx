@@ -148,6 +148,7 @@ const styles = StyleSheet.create({
   video: {
     width: "100%",
     height: 250,
+    marginBottom: 16,
   },
   infoContainer: {
     marginVertical: 16,
